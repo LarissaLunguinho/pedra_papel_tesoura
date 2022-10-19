@@ -8,13 +8,13 @@
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-* Você instalou a versão mais recente de Python
+* Instalar a versão mais recente de Python
 * Foi desenvolvido no Visual Studio Code
 
 ## ☕ Usando Quiz - GTA
 
 Para usar Pedra, Papel, Tesoura, siga estas etapas:
-* No meu caso no vscode, instale o aplicativo e execute(Ctrl+F5)
+* No caso do vscode, instale o aplicativo e execute(Ctrl+F5)
 
 ## 📫 Contribuindo para Pedra, Papel, Tesoura
 Para contribuir com Pedra, Papel, Tesoura, siga estas etapas:
